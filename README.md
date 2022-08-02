@@ -22,7 +22,9 @@ Visit my portfolio to see all my projects
 
 ## 🛠 Skills
 
-Tyepscript - React Js - Next Js - CSS - SASS - TailwindCSS - Material UI - Node Js
+**Web** : React Js - Next Js - CSS - SASS - TailwindCSS - Material UI - Node Js
+
+**Languages** : C++ - C - Typescript
 
 ## 🚀🚀 More About Me
 
