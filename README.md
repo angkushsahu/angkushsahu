@@ -6,13 +6,13 @@ I'm a full stack developer...
 
 ... and a competitive programmer
 
-## Projects
+## 💻 Projects
 
 Visit my portfolio to see all my projects
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://angkush.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-teal?style=for-the-badge&logo=ko-fi&logoColor=white)](https://angkush.vercel.app/)
 
-## Contact
+## 🤝🏻 Contact
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angkush-sahu-0409311bb)
 
@@ -24,7 +24,7 @@ Visit my portfolio to see all my projects
 
 Tyepscript - React Js - Next Js - CSS - SASS - TailwindCSS - Material UI - Node Js
 
-## More About Me
+## 🚀🚀 More About Me
 
 👩‍💻 I'm currently working on my DSA skills
 
