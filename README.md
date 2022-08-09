@@ -34,11 +34,11 @@
 
 <h3>Web</h3>
 
-<p>React Js - Next Js - CSS - SASS - TailwindCSS - Material UI - Node Js</p>
+<p>React Js - Next Js - CSS - SASS - TailwindCSS - Material UI - Node Js - Express Js - Mongo DB</p>
 
 <h3>Languages</h3>
 
-<p>C++ - C - Typescript</p>
+<p>C++ - C - Javascript - Typescript</p>
 
 
 <h2>🚀🚀 More About Me</h2>
