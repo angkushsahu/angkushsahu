@@ -17,19 +17,18 @@
 
 <h2>🤝🏻 Contact</h2>
 
-<div align="center">
-  <a href="https://linkedin.com/in/angkush-sahu-0409311bb" rel="noopener noreferrer" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="portfolio" />
-  </a>
+<a href="https://linkedin.com/in/angkush-sahu-0409311bb" rel="noopener noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="portfolio" />
+</a>
 
-  <a href="https://angkush.vercel.app/contact" rel="noopener noreferrer" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" />
-  </a>
+<a href="https://angkush.vercel.app/contact" rel="noopener noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" />
+</a>
 
-  <a href="https://github.com/angkushsahu" rel="noopener noreferrer" target="_blank">
-    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" />
-  </a>
-</div>
+<a href="https://github.com/angkushsahu" rel="noopener noreferrer" target="_blank">
+  <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" />
+</a>
+  
 
 <h2>🛠 Skills</h2>
 
