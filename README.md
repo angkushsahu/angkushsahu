@@ -1,49 +1,36 @@
-<h1>Hi, I'm Angkush! 👋</h1>
+<p align="center">
+<img align="center" alt="angkushsahu" width="100%"  height="350px" src="https://i.pinimg.com/originals/03/1e/96/031e9682fad5748c8515ec9089b69b27.gif" />
+</p>
+<h1 align="center">Hi 👋, I'm Angkush</h1>
+<h3 align="center">A full-stack developer and a passionate competitive programmer</h3>
+<img align="right" alt="hey it's me" width="250" src="https://res.cloudinary.com/dvhucdquc/image/upload/v1675028212/my-avatars/dfd945c6-7cea-4829-a228-a8d7a2851ea9_ameaii.png" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=angkushsahu&label=Profile%20views&color=0e75b6&style=flat)
 
-<h2>🚀 About Me</h2>
+-   🔭 I’m currently working on **my DSA skills**
 
-<p>I'm a full stack developer...</p>
-<p>... and a competitive programmer</p>
+-   🌱 I’m currently learning **blockchain development**
 
+-   👯 I’m looking to collaborate on **full-stack projects**
 
-<h2>💻 Projects</h2>
+-   👨‍💻 All of my projects are available at [https://angkush.vercel.app/projects](https://angkush.vercel.app/projects)
 
-<p>Visit my portfolio to see all my projects</p>
-<a href="https://angkush.vercel.app/" rel="noopener noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/my_portfolio-teal?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
-</a>
+-   💬 Ask me about **full-stack dev and DSA**
 
+-   📫 How to reach me **https://angkush.vercel.app/contact**
 
-<h2>🤝🏻 Contact</h2>
+-   ⚡ Fun fact **I think I am quite funny**
 
-<a href="https://linkedin.com/in/angkush-sahu-0409311bb" rel="noopener noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="portfolio" />
-</a>
+### Connect with me :
 
-<a href="https://angkush.vercel.app/contact" rel="noopener noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/angkushsahu)
 
-<a href="https://github.com/angkushsahu" rel="noopener noreferrer" target="_blank">
-  <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" />
-</a>
-  
+### Languages and Tools
 
-<h2>🛠 Skills</h2>
+![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,nodejs,express,firebase,mongodb,linux,git,github,heroku,figma,react,redux,next,css,sass,tailwind,bootstrap,materialui,html,pug,&theme=dark&perline=8)
 
-<h3>Web</h3>
+![angkushsahu](https://github-readme-stats.vercel.app/api/top-langs?username=angkushsahu&show_icons=true&locale=en&layout=compact)
 
-<p>React Js - Next Js - CSS - SASS - TailwindCSS - Material UI - Node Js - Express Js - Mongo DB</p>
+![angkushsahu](https://github-readme-stats.vercel.app/api?username=angkushsahu&show_icons=true&locale=en)
 
-<h3>Languages</h3>
-
-<p>C++ - C - Javascript - Typescript</p>
-
-
-<h2>🚀🚀 More About Me</h2>
-
-<p>👩‍💻 I'm currently working on my DSA skills</p>
-<p>🧠 I'm currently learning Blockchain Development</p>
-<p>👯‍♀️ I'm looking for a Full-Stack developer Internship</p>
-<p>💬 Ask me about Web Development and DSA</p>
+![angkushsahu](https://github-readme-streak-stats.herokuapp.com/?user=angkushsahu)
