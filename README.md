@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="angkushsahu" width="100%"  height="350px" src="https://i.pinimg.com/originals/03/1e/96/031e9682fad5748c8515ec9089b69b27.gif" />
+<img align="center" alt="angkushsahu" width="100%"  height="320px" src="https://i.pinimg.com/originals/03/1e/96/031e9682fad5748c8515ec9089b69b27.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Angkush</h1>
 <h3 align="center">A full-stack developer and a passionate competitive programmer</h3>
