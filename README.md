@@ -29,8 +29,27 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,nodejs,express,firebase,mongodb,linux,git,github,heroku,figma,react,redux,next,css,sass,tailwind,bootstrap,materialui,html,pug,&theme=dark&perline=8)
 
+<!-- white layout -->
+
 ![angkushsahu](https://github-readme-stats.vercel.app/api/top-langs?username=angkushsahu&show_icons=true&locale=en&layout=compact)
 
 ![angkushsahu](https://github-readme-stats.vercel.app/api?username=angkushsahu&show_icons=true&locale=en)
 
 ![angkushsahu](https://github-readme-streak-stats.herokuapp.com/?user=angkushsahu)
+
+<!-- dark layout -->
+
+![angkushsahu](https://github-readme-stats.vercel.app/api/top-langs?username=angkushsahu&show_icons=true&locale=en&layout=compact&theme=dark)
+
+![angkushsahu](https://github-readme-streak-stats.herokuapp.com/?user=angkushsahu&theme=dark)
+
+![angkushsahu](https://github-readme-stats.vercel.app/api?username=angkushsahu&show_icons=true&locale=en&theme=dark)
+
+<!-- radical layout -->
+
+![angkushsahu](https://github-readme-stats.vercel.app/api/top-langs?username=angkushsahu&show_icons=true&locale=en&layout=compact&theme=radical)
+
+![angkushsahu](https://github-readme-streak-stats.herokuapp.com/?user=angkushsahu&theme=radical)
+
+![angkushsahu](https://github-readme-stats.vercel.app/api?username=angkushsahu&show_icons=true&locale=en&theme=radical)
+
