@@ -1,6 +1,3 @@
-<p align="center">
-<img align="center" alt="angkushsahu" width="100%"  height="320px" src="https://i.pinimg.com/originals/03/1e/96/031e9682fad5748c8515ec9089b69b27.gif" />
-</p>
 <h1 align="center">Hi 👋, I'm Angkush</h1>
 <h3 align="center">A full-stack developer and a passionate competitive programmer</h3>
 <img align="right" alt="hey it's me" width="250" src="https://res.cloudinary.com/dvhucdquc/image/upload/v1675028212/my-avatars/dfd945c6-7cea-4829-a228-a8d7a2851ea9_ameaii.png" />
