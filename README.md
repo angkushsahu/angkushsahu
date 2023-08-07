@@ -12,11 +12,11 @@
 
 -   👯 I’m looking to collaborate on **full-stack projects**
 
--   👨‍💻 All of my projects are available at [https://angkush.vercel.app/projects](https://angkush.vercel.app/projects)
+-   👨‍💻 All of my projects are available at [https://angkushsahu.vercel.app/projects](https://angkushsahu.vercel.app/projects)
 
 -   💬 Ask me about **full-stack dev and DSA**
 
--   📫 How to reach me **https://angkush.vercel.app/contact**
+-   📫 How to reach me **https://angkushsahu.vercel.app/contact**
 
 -   ⚡ Fun fact **I think I am quite funny**
 
