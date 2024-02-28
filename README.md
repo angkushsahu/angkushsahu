@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/dvhucdquc/image/upload/v1683272813/banner_gjuxpo.png)
+![Banner](https://res.cloudinary.com/dvhucdquc/image/upload/v1709130589/my-avatars/gk9kyp3fgs1jw8p8wprj.png)
 
 <h1 align="center">Hi 👋, I'm Angkush</h1>
 <h3 align="center">A full-stack developer and a passionate competitive programmer</h3>
