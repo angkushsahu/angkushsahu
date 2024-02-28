@@ -26,7 +26,7 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,nodejs,express,firebase,mongodb,linux,git,github,heroku,figma,react,redux,next,css,sass,tailwind,bootstrap,materialui,html,pug,&theme=dark&perline=8)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,js,ts,nodejs,express,mongodb,firebase,linux,git,github,figma,react,redux,next,css,sass,tailwind,bootstrap,materialui&theme=dark&perline=8)
 
 ![angkushsahu](https://github-readme-stats.vercel.app/api/top-langs?username=angkushsahu&show_icons=true&locale=en&layout=compact&theme=dark)
 
