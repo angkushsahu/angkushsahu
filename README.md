@@ -6,19 +6,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=angkushsahu&label=Profile%20views&color=0e75b6&style=flat)
 
--   🔭 I’m currently working on **my DSA skills**
-
--   🌱 I’m currently learning **blockchain development**
+-   🔭 I’m currently building some cool projects
 
 -   👯 I’m looking to collaborate on **full-stack projects**
 
--   👨‍💻 All of my projects are available at [https://angkushsahu.vercel.app/projects](https://angkushsahu.vercel.app/projects)
+-   👨‍💻 All of my projects are available [here](https://angkushsahu.vercel.app/projects)
 
--   💬 Ask me about **full-stack dev and DSA**
+-   💬 Ask me about **full-stack dev**
 
--   📫 How to reach me **https://angkushsahu.vercel.app/contact**
+-   📫 How to reach me [📧](https://angkushsahu.vercel.app/contact)
 
--   ⚡ Fun fact **I think I am quite funny**
+-   🍔 I love cheese-burgers
 
 ### Connect with me :
 
@@ -26,11 +24,4 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,js,ts,nodejs,express,nestjs,mongodb,firebase,linux,git,github,figma,react,redux,next,css,sass,tailwind,bootstrap,materialui&theme=dark&perline=8)
-
-![angkushsahu](https://github-readme-stats.vercel.app/api/top-langs?username=angkushsahu&show_icons=true&locale=en&layout=compact&theme=dark)
-
-![angkushsahu](https://github-readme-streak-stats.herokuapp.com/?user=angkushsahu&theme=dark)
-
-![angkushsahu](https://github-readme-stats.vercel.app/api?username=angkushsahu&show_icons=true&locale=en&theme=dark)
-
+![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,js,ts,nodejs,express,nestjs,mongodb,linux,git,github,react,next,svelte,css,tailwind&theme=dark&perline=8)
