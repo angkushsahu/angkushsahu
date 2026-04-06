@@ -24,4 +24,4 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,js,ts,react,next,svelte,css,sass,tailwind,nodejs,express,nestjs,mongodb,postgresql,git,github,linux&theme=dark&perline=8)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,js,ts,react,next,svelte,css,sass,tailwind,nodejs,express,nestjs,mongodb,postgresql,git,github,linux,docker&theme=dark&perline=8)
