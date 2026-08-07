@@ -1,8 +1,8 @@
-![Banner](https://res.cloudinary.com/dvhucdquc/image/upload/v1709130589/my-avatars/gk9kyp3fgs1jw8p8wprj.png)
+![Banner](/banner.png)
 
 <h1 align="center">Hi 👋, I'm Angkush</h1>
 <h3 align="center">A full-stack developer</h3>
-<img align="right" alt="hey it's me" width="250" src="https://res.cloudinary.com/dvhucdquc/image/upload/v1709130607/my-avatars/bfq20yxejhsqgedk4xxs.png" />
+<img align="right" alt="hey it's me" width="250" src="/face.png" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=angkushsahu&label=Profile%20views&color=0e75b6&style=flat)
 
